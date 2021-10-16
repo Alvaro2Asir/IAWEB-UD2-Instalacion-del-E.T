@@ -4,5 +4,6 @@
 	</head>
 	<body
  		<?php echo '<p class="color">Hola Mundo</p>'; ?>
+		<image src="índice.jpg">
 	</body>
 </body>
