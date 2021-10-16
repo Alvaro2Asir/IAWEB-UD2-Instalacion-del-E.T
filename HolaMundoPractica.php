@@ -1,6 +1,8 @@
 <body>
-	<head></head>
+	<head>
+	<link rel="stylesheet" href="HolaMundoPractica.css"><<<<<
+	</head>
 	<body
- 		<?php echo '<p>Hola Mundo</p>'; ?>
+ 		<?php echo '<p class="color">Hola Mundo</p>'; ?>
 	</body>
 </body>
